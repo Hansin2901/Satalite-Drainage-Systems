@@ -1,4 +1,4 @@
-# Satalite-Drainage-Systems
+# Satellite-Drainage-Systems
 Our goal here is to figure out the drainage detection channel  using satellite images. The satellite images have a lot of noise so we will have to thruoghly clean the image or atleast highlight the contours to do requried detection. So we use image processing techniques
 
 The following process is followd
